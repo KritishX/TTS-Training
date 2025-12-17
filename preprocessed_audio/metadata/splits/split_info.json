@@ -1,0 +1,33 @@
+{
+  "train_speakers": [
+    "73d74",
+    "55c0f",
+    "76dab",
+    "73b5e",
+    "c7f90",
+    "9f669",
+    "6a6d1",
+    "ceb25",
+    "b7116",
+    "90bdd",
+    "f7175",
+    "b77af",
+    "f4b4a",
+    "8efbc"
+  ],
+  "val_speakers": [
+    "41d46",
+    "5a5e7"
+  ],
+  "test_speakers": [
+    "24945",
+    "ba807"
+  ],
+  "num_train_samples": 6082,
+  "num_val_samples": 1065,
+  "num_test_samples": 1229,
+  "train_duration_hours": 7.3662777777777775,
+  "val_duration_hours": 1.0666111111111112,
+  "test_duration_hours": 1.330083333333333,
+  "total_duration_hours": 9.76297222222222
+}

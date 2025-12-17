@@ -1,0 +1,30 @@
+{
+  "total_samples": 8376,
+  "total_duration_hours": 9.762972222222231,
+  "splits": {
+    "train": {
+      "samples": 6082,
+      "copied_files": 6082,
+      "skipped_files": 0,
+      "duration_hours": 7.366277777777787,
+      "duration_minutes": 441.97666666666726,
+      "avg_duration_seconds": 4.360177573166728
+    },
+    "val": {
+      "samples": 1065,
+      "copied_files": 1065,
+      "skipped_files": 0,
+      "duration_hours": 1.06661111111111,
+      "duration_minutes": 63.996666666666606,
+      "avg_duration_seconds": 3.6054460093896683
+    },
+    "test": {
+      "samples": 1229,
+      "copied_files": 1229,
+      "skipped_files": 0,
+      "duration_hours": 1.330083333333334,
+      "duration_minutes": 79.80500000000004,
+      "avg_duration_seconds": 3.8960943856794157
+    }
+  }
+}
